@@ -1,8 +1,9 @@
 Topic: Title implementation dictionary in Python
 
-Algorithm
-A. Update Product Price
 
+Algorithms -4 in Total
+
+A. Update Product Price
 Algorithm:
 
 Initialize a dictionary named product with product names as keys and prices as values.
@@ -15,7 +16,6 @@ product["Book"] = "55 Rupees"
 Display the updated product dictionary to show the modified price.
 
 B. Search Student Marks
-
 Algorithm:
 
 Initialize a dictionary named student with student names as keys and their marks as values.
@@ -28,7 +28,6 @@ student.get(name, "Student not found")
 If the name exists, display the student’s marks. Otherwise, display "Student not found".
 
 C. User Login Validation
-
 Algorithm:
 
 Initialize a dictionary named users with usernames as keys and passwords as values.
@@ -42,7 +41,6 @@ If the condition is true, display "Login successful".
 Otherwise, display "Invalid username or password".
 
 D. Find Highest Scorer
-
 Algorithm:
 
 Initialize a dictionary named student with student names as keys and their marks as values.
@@ -56,7 +54,6 @@ student[topper]
 Display the name of the topper along with their marks.
 
 conclusion:
-**Conclusion:**
 
 From the above tasks, we understood how dictionaries in Python are used to store and manage data efficiently using key value pairs.
 We learned how to update values, search for specific keys, validate user credentials, and identify the maximum value in a dictionary. 
