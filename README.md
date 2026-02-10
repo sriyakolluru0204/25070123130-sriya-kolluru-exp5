@@ -1,6 +1,4 @@
-Topic:
-
-
+Topic: Title implementation dictionary in Python
 
 Algorithm
 A. Update Product Price
