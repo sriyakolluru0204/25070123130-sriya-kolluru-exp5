@@ -1,6 +1,7 @@
 Topic: Title implementation dictionary in Python
 
-
+ Introdcution-
+Algorithms are step-by-step procedures used to solve a problem in a systematic and logical way. In programming, algorithms help in designing efficient solutions before writing the actual code. They improve clarity, reduce errors, and make programs easier to understand and debug. Below are four basic algorithms commonly used in Python programming.
 Algorithms -4 in Total
 
 A. Update Product Price
